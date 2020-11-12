@@ -1,6 +1,6 @@
 <?php
 
-$host = "localhost:3307";
+$host = "localhost";
 $db_user = "root";
 $db_password = "";
 $db_name = "bazasklep";
