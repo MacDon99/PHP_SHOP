@@ -1,6 +1,8 @@
 # PHP_SHOP
 Simple shop app with database connection.
+
 **Technologies**
+
 **Back**:
 * PHP
 * Myql
