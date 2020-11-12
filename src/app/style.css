@@ -1,0 +1,38 @@
+.myfield {
+     display: flex; 
+    flex-direction: row;
+    padding-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.textItems {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.myHeader {
+    top: 20px;
+    padding-left: 40px;
+    position: absolute;
+}
+.myImage {
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    padding:10px;
+}
+.myLabel {
+    padding:5px;
+}
+.buyform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+}
+.myCentered{
+    display:flex;
+    justify-content: center;
+    padding: 20px;
+}

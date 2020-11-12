@@ -1,0 +1,16 @@
+.nav {
+    /* position: absolute; */
+    height: 50px;
+    color:white;
+    top:0;
+    width: 100%;
+    background-color: black;
+}
+.colorWhite{
+    color:white;
+}
+.navItems{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
