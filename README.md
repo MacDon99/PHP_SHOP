@@ -4,7 +4,7 @@ Simple shop app with database connection.
 **Technologies**
 
 **Back**:
-* PHP
+* PHP - sessions, handling mysql connection and form post methods
 * Myql
 
 **Front**:
